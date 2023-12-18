@@ -16,6 +16,7 @@
 <h2>Реализация в KSP</h2>
 
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/9b52ee9c-90cf-4023-8b6c-654ee2898ce4)
+![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/2c250c6c-505d-4483-bcdb-194d51ae61ea)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/14280ebb-adfd-4b3f-bc30-426e615ba4b9)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/6f40b472-5e62-44f9-b97f-e10a88206fd2)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/50d8bf2b-38ea-4590-afb1-dfbfb2884eb4)
