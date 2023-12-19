@@ -24,3 +24,5 @@
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/cce3c3c9-ca0f-49f6-9f44-6cb01183ccea)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/cfee2973-cbc3-407f-b998-5365e3f72349)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/c79b9f4b-ec22-4ce0-bebe-a6788769e75f)
+
+https://youtu.be/LnTzDOP31jE - полет ракеты в ksp
