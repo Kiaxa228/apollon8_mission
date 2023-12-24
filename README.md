@@ -26,8 +26,8 @@ https://github.com/Kiaxa228/apollon8_mission/blob/main/Kerbal%20X.craft
 
 <h2>Программы:</h2>
 <ol>
-  <li>Выгрузка данных из игры при помощи библиотеки KRPC: </li>
-  <li>Построение графиков математической модели и KSP: </li>
+  <li>Выгрузка данных из игры при помощи библиотеки KRPC: https://github.com/Kiaxa228/apollon8_mission/blob/main/record.py</li>
+  <li>Построение графиков математической модели и KSP: https://github.com/Kiaxa228/apollon8_mission/blob/main/2graphs.py</li>
 </ol>
 
 <h2>Ссылка на материалы проекта и отчет:</h2>
