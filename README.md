@@ -21,4 +21,26 @@
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/6f40b472-5e62-44f9-b97f-e10a88206fd2)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/cfee2973-cbc3-407f-b998-5365e3f72349)
 
+Файл с моделью ракеты: https://github.com/Kiaxa228/apollon8_mission/blob/main/Kerbal%20X.craft
+
+<h2>Программы:</h2>
+<ol>
+  <li>Выгрузка данных из игры при помощи библиотеки KRPC: </li>
+  <li>Построение графиков математической модели и KSP: </li>
+</ol>
+
+<h2>Ссылка на материалы проекта и отчет:</h2>
+. . . гугл-док со всеми файлами . . .
+
+<h2>Ссылка на видео-отчёт на YouTube:</h2>
+. . . 
+
+<h2>Ссылка оригинал отчета:</h2>
+https://docs.google.com/document/d/1j9Sa8ufRls5sJXHPI0BUTAYT8jUf3uYrWHQ-Vi1Xvvs/edit
+
+
+
+
+
+
 https://youtu.be/LnTzDOP31jE - полет ракеты в ksp
