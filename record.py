@@ -1,3 +1,4 @@
+## Запись всех данных из KSP
 import csv
 import krpc
 import time
