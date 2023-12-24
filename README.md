@@ -19,6 +19,6 @@
 
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/9b52ee9c-90cf-4023-8b6c-654ee2898ce4)
 ![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/6f40b472-5e62-44f9-b97f-e10a88206fd2)
-![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/cce3c3c9-ca0f-49f6-9f44-6cb01183ccea)
+![изображение](https://github.com/Kiaxa228/apollon8_mission/assets/42683382/cfee2973-cbc3-407f-b998-5365e3f72349)
 
 https://youtu.be/LnTzDOP31jE - полет ракеты в ksp
