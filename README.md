@@ -37,7 +37,7 @@ https://github.com/Kiaxa228/apollon8_mission/blob/main/Kerbal%20X.craft
 . . .
 
 <h2>Ссылка на видео-отчёт на YouTube:</h2>
-. . . 
+https://www.youtube.com/watch?v=TeTFXaNliXY&ab_channel=%D0%9C%D0%B0%D1%80%D0%BA%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2
 
 <h2>Ссылка оригинал отчета:</h2>
 https://docs.google.com/document/d/1j9Sa8ufRls5sJXHPI0BUTAYT8jUf3uYrWHQ-Vi1Xvvs/edit
